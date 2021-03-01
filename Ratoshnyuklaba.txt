@@ -1,0 +1,317 @@
+    1  tty
+    2  pwd
+    3  who
+    4  whoami
+    5  exit
+    6  touch u2
+    7  touch u3
+    8  cat u1.txt
+    9  cat u1
+   10  dir L1
+   11  dir -L1
+   12  su rooot u1
+   13  touch u1 u2 u3
+   14  ls -la > listing1
+   15  cat listing 1
+   16  cat listing1
+   17  drwxr-xr-x
+   18  drwxr-xr-x 2
+   19  touch u1 u2 u3
+   20  free
+   21  du -sh /home/ratoshnyuk
+   22  du -sh/etc
+   23  sudo do -sh /tmp
+   24  sudo du -sh /tmp
+   25  find /home -name "*.txt"
+   26  sudo find /home -name "*.txt"
+   27  cd ..
+   28  ls -l | wc
+   29  ls -l
+   30  sudo apt install tree
+   31  free
+   32  du -sh /home/ratoshnyuk
+   33  du -sh /etc
+   34  sudo du -sh /etc
+   35  sudo du -sh /tmp
+   36  find /home -name "*.txt"
+   37  sudo find /home -name "*.txt"
+   38  cd ..
+   39  la -l | wc
+   40  ls -l
+   41  sudo apt install tree
+   42  free
+   43  du -sh /home/ratoshnyuk
+   44  du -sh /etc
+   45  sudo du -sh /tmp
+   46  find /home -name "*.txt"
+   47  sudo fins /home -name "*.txt"
+   48  sudo find /home -name "*.txt"
+   49  cd ..
+   50  ls -l
+   51  tree | mc
+   52  tree | wc
+   53  tree
+   54  sudo apt install tree
+   55  cat > root.txt
+   56  ls
+   57  cp -p ffile labs
+   58  cp -p file labs
+   59  ls
+   60  cd labs/
+   61  nano pro.sh
+   62  cd bin
+   63  nano pro.sh
+   64  crontab -e
+   65  crontab -e
+   66  #!/usr/bin/bash
+   67  touch save.sh
+   68  ExportPATH="$HOME/bin:$PATH"
+   69  cd bin
+   70  bash save.sh
+   71  #!/usr/bin/bash
+   72  touch save.sh
+   73  bash save.sh
+   74  nano save.sh
+   75  bash save.sh
+   76  bash save
+   77  touch prob.sh
+   78  nano prob
+   79  Export PATH="$HOME/bin:$PATH"
+   80  nano prob
+   81  bash prob
+   82  nano prob
+   83  bash prob
+   84  nano prob
+   85  bash prob
+   86  nano prob
+   87  CRONTAB - E
+   88  CRONTAB-E
+   89  crontab -e
+   90  cd bin
+   91  touch pro.sh
+   92  nano pro.sh
+   93  bash pro
+   94  bash pro.sh
+   95  nano pro
+   96  nano pro.sh
+   97  bash pro.sh
+   98  nano pro.sh
+   99  bash pro.sh
+  100  crontab -e
+  101  crontab -e
+  102  #!/bin/bash
+  103  file = "useri"
+  104  ps aux > ps.out
+  105  touch index.html
+  106  printf "<html>" >> index.html
+  107  man arp
+  108  ifconfig
+  109  ping -c 5 192.168.0.109
+  110  ifconfig
+  111  ping -c 7 192.168.56.1
+  112  ping -c 7 192.168.1.247
+  113  ping -c 7 httpd.apache.org
+  114  ping -c 10.0.2.15
+  115  ping -c 7 10.0.2.15
+  116  ifconfig
+  117  man ifconfig
+  118  man arp
+  119  man netstat
+  120  man nslookup
+  121  man route
+  122  man ping
+  123  man traceroute
+  124  man man traceroute
+  125  man hostname
+  126  man arp cat
+  127  man ifconfig|cat
+  128  man netstat|cat
+  129  ipconfig
+  130  ifconfig
+  131  ping 127.0.0.1
+  132  ping 10.0.2.15
+  133  ping 10.0.2.2
+  134  ping 192.168.56.1
+  135  ping 192.168.95.1
+  136  ping 8.8.8.8
+  137  ping ya.ru
+  138  ping 192.168.1.1
+  139  ifconfig
+  140  ping -c 3 192.168.56.1
+  141  ping -n 3 192.168.56.1
+  142  pwd
+  143  cat /etc/apt/sources.list
+  144  cat /etc/apt/sources.list > new_file
+  145  ls
+  146  ps -aux
+  147  top
+  148  sudo apt-get update
+  149  sudo apt-get upgrade -y
+  150  apt install nodejs
+  151  echo "Marina Marina" > mr.txt
+  152  cat mr.txt
+  153  scp mr.txt ratoshnyuk:/home/ratoshnyuk
+  154  scp mr.txt ratoshnyuk@192.168.1.124:/home/ratoshnyuk/
+  155  ssh ratoshnyuk@192.168.1.124
+  156  ls
+  157  sudo reboot
+  158  ifconfig
+  159  cat /etc/apt/sources.list
+  160  ls
+  161  ps -aux
+  162  top
+  163  pwd
+  164  ls
+  165  cat mr.txt
+  166  ssh-keygen -t rsa
+  167  cd ~/.ssh
+  168  ls -l
+  169  ssh-copy-id 192.168.1.124
+  170  ssh 192.168.1.124
+  171  lstmux new -s newsession
+  172  tmux new -s newsession
+  173  exit
+  174  exit
+  175  htop
+  176  exit
+  177  tmux kill-ses -t newsessions
+  178  tmux kill-ses newsessions
+  179  tmux kill-ses -t newsessions
+  180  logout
+  181  exit
+  182  tmux attach -t mar
+  183  tmux new -s session
+  184  git init
+  185  cd 
+  186  mkdir lin-lab1
+  187  cd lin-lab1
+  188  git init
+  189  git status 
+  190  git status
+  191  git add main.py
+  192  git status
+  193  git commit -m "напечатать Hello world"
+  194  git add .
+  195  commit -m "напечатать а=5"
+  196  git commit -m "напечатать а=5"
+  197  git log
+  198  git commit -m "+ 3 commit"
+  199  git log
+  200  git commit -m "передается 3 объекта"
+  201  git add .
+  202  git commit -m "передается 3 объекта"
+  203  git log
+  204  git add .
+  205  git commit -m "сложение двух чисел"
+  206  git add .
+  207  git commit -m "умножение двух чисел"
+  208  git log
+  209  git add .
+  210  git status
+  211  ls -a
+  212  sudo apt-get install python3-venv
+  213  la -a
+  214  ls -a
+  215  python3 -m venv
+  216  source lin-lab1/bin/activate
+  217  la-a
+  218  ls -a
+  219  python3 -m benv myenv1
+  220  python3 -m venv myenv1
+  221  source myenv1/bin/activate
+  222  source myenv1/bin/deactivate
+  223  source myenv1/bin/deactevate
+  224  deactivate
+  225  vim .gitignore
+  226  git status
+  227  git add. gitignore
+  228  git add .gitignore
+  229  ls -a
+  230  git status
+  231  vim .gitignore
+  232  git status
+  233  la -
+  234  ls -
+  235  ls
+  236  git status
+  237  git add .gitignore
+  238  git commit -m "add gitignore"
+  239  git status
+  240  git add.
+  241  git add .
+  242  git status
+  243  vim .gitignore
+  244  git add.gitignore
+  245  fit add .gitignore
+  246  git add .gitignore
+  247  git commit -m "add gitignore"
+  248  git status
+  249  git add .main.py
+  250  git branch 
+  251  git branch new
+  252  git branch
+  253  git checkout new
+  254  git branch
+  255  touch test3.txt
+  256  git add test3.txt
+  257  git commit -m "my 3 commit"
+  258  touch test2.txt
+  259  git add test2.txt
+  260  git commit -m "my 2 commit"
+  261  git status
+  262  git add .
+  263  git status
+  264  git checkout master
+  265  git branch
+  266  git merge new
+  267  git commit -m "rabotaet"
+  268  cd ..
+  269  cd git
+  270  cd test
+  271  git clone https://github.com/RatoshnyukMarina/0_git_basics
+  272  nano tt.sh
+  273  mv tt.sh 0_git_basics
+  274  cd 0_git_basics
+  275  ls
+  276  git add .
+  277  git commit -m tt.sh
+  278  git push
+  279  cd ..
+  280  nano tt.sh
+  281  git add .
+  282  git commit -m "add echo"
+  283  nano tt.sh
+  284  git add .
+  285  gi commit -am "add error"
+  286  git commit -am "add error"
+  287  git reset --hard HEAD~1
+  288  git push -f origin master
+  289  cd ..
+  290  git remote add origin git@github.com:RatoshnyukMarina/new_linux.git
+  291  git remote add origin git@github.com:RatoshnyukMarina/test.git
+  292  cd ..
+  293  cd lin-lab1
+  294  git remote add origin git@github.com:RatoshnyukMarina/new_linux.git
+  295  git remote add origin https://github.com/RatoshnyukMarina/new_linux.git
+  296  git push origin HEAD
+  297  cd ..
+  298  cd git
+  299  git remote add origin git@github.com:RatoshnyukMarina/new_linux.git
+  300  git push origin HEAD
+  301  git remote add origin git@github.com:RatoshnyukMarina/test.git
+  302  git push origin HEAD
+  303  cd test 
+  304  git remote add origin git@github.com:RatoshnyukMarina/new_linux.git
+  305  git push origin HEAD
+  306  git init
+  307  git push origin HEAD
+  308  git remote add origin git@github.com:RatoshnyukMarina/new_linux.git
+  309  git push origin HEAD
+  310  cd ..
+  311  cd lin-lab1
+  312  git push origin HEAD
+  313  it remote add origin https://github.com/RatoshnyukMarina/new_linux.git
+  314  git push origin HEAD
+  315  git add .tets
+  316  git add .test
+  317  history>Ratoshnyuklaba.txt
